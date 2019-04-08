@@ -30,7 +30,7 @@ Check out the deployed app at https://tims-referrals.herokuapp.com
 <br>
 
 I ran into some issues deploying to heroku because of my file structure, so I rebuilt the app with the correct structure
-and I new github repo. You can check out the original repo here: https://github.com/carpenter-js/Ambassodor-code-challenge
+and A new github repo. You can check out the original repo here: https://github.com/carpenter-js/Ambassodor-code-challenge
 to see my commit history and get an idea of my workflow. This taught me a lot about how to properly structure a Django project.
 
 <br>
