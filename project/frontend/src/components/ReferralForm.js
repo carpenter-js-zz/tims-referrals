@@ -24,7 +24,7 @@ class ReferralForm extends Component {
           <label className="label" htmlFor="referral">Add a link:</label>
           <div className="control">
             <input 
-              className="addReferralInput"
+              className="input addReferralInput"
               type="text"
               name="referral"
               onChange={e => this.props.dispatch(saveNewReferral(e.target.value))}

@@ -1,0 +1,14 @@
+main {
+  width: 80%;
+  margin: auto;
+}
+
+.landingPage {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.addReferralInput {
+  width: 40%;
+}

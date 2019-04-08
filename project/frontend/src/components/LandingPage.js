@@ -5,7 +5,7 @@ export default function LandingPage(props) {
   const title = props.match.params.name;
 
   return (
-    <div>
+    <div className="landingPage">
       <h1 className="title is-1">{title}</h1>
 
       <Link to={'/'}>
