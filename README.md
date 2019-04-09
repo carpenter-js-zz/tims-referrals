@@ -20,7 +20,7 @@ The api tests are in ./project/referrals/tests.py <br>
 I chose to handle the increment click count functionality on the frontend with a PUT request in an onClick handler.<br>
 
 The url shown in the browser is handled by react router's hash router to show {my_url}/{link_nme}, the backend urls 
-are api/referrals and api/referrals/:id.
+are api/referrals and api/referrals/:id. Go to https://tims-referrals.herokuapp.com/api/referrals for the browsable api.
 
 The next steps for this project would be to build out the error handling and to add a error component to show errors to the 
 user, and to add tests to the frontend. <br>
@@ -30,7 +30,7 @@ Check out the deployed app at https://tims-referrals.herokuapp.com
 <br>
 
 I ran into some issues deploying to heroku because of my file structure, so I rebuilt the app with the correct structure
-and A new github repo. You can check out the original repo here: https://github.com/carpenter-js/Ambassodor-code-challenge
+and a new github repo. You can check out the original repo here: https://github.com/carpenter-js/Ambassodor-code-challenge
 to see my commit history and get an idea of my workflow. This taught me a lot about how to properly structure a Django project.
 
 <br>
